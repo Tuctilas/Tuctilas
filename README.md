@@ -1,22 +1,6 @@
-## Hi there 👋
-
-<!--
-**Tuctilas/Tuctilas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:00ff41&text=Gustavo%20Macedo&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
-
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:00ff41&text=Gustavo%20Macedo&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
 
 # 👨‍💻 Gustavo Macedo
 
@@ -32,14 +16,12 @@ Here are some ideas to get you started:
 
 Desenvolvedor apaixonado por tecnologia, automação e criação de soluções digitais.
 
-Atualmente atuando com:
-
-- 🌐 Desenvolvimento Full Stack
-- 🤖 Inteligência Artificial
-- ⚡ Automações
-- 🔒 Cyber Security
-- ☁️ Infraestrutura Cloud
-- 🎮 Projetos Gamer
+* 🌐 Desenvolvimento Full Stack
+* 🤖 Inteligência Artificial
+* ⚡ Automação de processos
+* 🔒 Cyber Security
+* ☁️ Cloud Computing
+* 🎮 Projetos Gamer
 
 ---
 
@@ -61,69 +43,59 @@ Atualmente atuando com:
 
 ## 💻 Tecnologias
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,python,php,mysql,postgres,docker,git,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,python,php,mysql,postgres,docker,git,linux,vscode" />
 
-</div>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tuctilas&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuctilas&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuctilas&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuctilas&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuctilas&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 ## 🏆 Conquistas
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tuctilas&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tuctilas&theme=tokyonight&column=7"/>
 
-</div>
-
----
-
-# 🚀 Projetos em Destaque
-
-## 🎮 Studio Diamond
-
-Sistema focado em gerenciamento e experiência para comunidade gamer.
-
-🔗 https://github.com/Tuctilas/StudioDiamond
+</p>
 
 ---
 
-## 🌐 Atraseven
+## 🚀 Projetos em Destaque
 
-Website institucional moderno com foco em performance e experiência do usuário.
+<a href="https://github.com/Tuctilas/StudioDiamond">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuctilas&repo=StudioDiamond&theme=tokyonight"/>
+</a>
 
-🔗 https://github.com/Tuctilas/atraseven-site
+<a href="https://github.com/Tuctilas/atraseven-site">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuctilas&repo=atraseven-site&theme=tokyonight"/>
+</a>
 
----
-
-## 🏟️ ARENA
-
-Projeto voltado ao universo competitivo e gerenciamento de eventos/jogos.
-
-🔗 https://github.com/Tuctilas/ARENA
+<a href="https://github.com/Tuctilas/ARENA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuctilas&repo=ARENA&theme=tokyonight"/>
+</a>
 
 ---
 
@@ -135,18 +107,12 @@ Projeto voltado ao universo competitivo e gerenciamento de eventos/jogos.
 
 ## 🐍 Contributions Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
 <div align="center">
 
-### ⚡ "Code. Build. Automate. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=Tuctilas&style=for-the-badge&color=brightgreen"/>
+### ⚡ Code. Build. Automate. Repeat.
 
 </div>
