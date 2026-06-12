@@ -1,4 +1,7 @@
-<h1 align="center">Gustavo Macedo</h1>
+<p align="center">
+  <img width="100%" src="./banner.png" alt="Gustavo Macedo Banner"/>
+</p>
+
 
 <p align="center">
 Full Stack Developer • Linux Enthusiast • AI • Automation • Cyber Security
